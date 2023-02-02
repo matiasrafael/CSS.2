@@ -7,3 +7,4 @@
 - FIGMA
 <br>
 <br>
+<img src="https://github.com/matiasrafael/Easy-Shopping/blob/master/Novo%20Projeto%20(31).png?raw=true"/>
